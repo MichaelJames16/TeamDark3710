@@ -32,4 +32,11 @@ public class GameManager : MonoBehaviour {
 	{
 		Application.Quit();
 	}
+
+	public void LevelSelect()
+	{
+		//load level code, probably branching if statements based on button text
+
+		//or each button has its own method to load each level
+	}
 }
